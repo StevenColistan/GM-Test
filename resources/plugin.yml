@@ -1,0 +1,10 @@
+name: GMTestPlugin
+version: '${project.version}'
+main: de.zfabi.gmtestplugin.GMTestPlugin
+commands:
+  spawnvillager:
+      description: "187"
+  checkserial:
+    description: "Serienummer prüfen"
+
+
